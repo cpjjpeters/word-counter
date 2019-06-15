@@ -39,7 +39,7 @@ public static void main(String[] args) {
 		parent.getChildren().add(button);
 		Scene scene = new Scene(new Label("Input"));
 		
-		
+//		just adding comment
 		primaryStage.setScene(new Scene(parent));
 		primaryStage.show();
 	}
